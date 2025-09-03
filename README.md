@@ -4,7 +4,7 @@
 ![LOGO](./LOGO.jpg)
 Small Speedmapping Slaughter Map created to celebrate the **3rd anniversary** of the ENDOOM community.  
 
-**Download**: [Latest Release](https://github.com/Ear1h/WAD-GRAVITRON/releases/download/v2.0/Gravitron_v2.1.wad)
+**Download**: [Latest Release](https://github.com/Ear1h/WAD-3years/releases/download/v2.0/3years.wad)
 
 ### Version 2.0
 ### Fixes  
